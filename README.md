@@ -3,19 +3,19 @@
  | Challenge Name          | Points
  | --------------          | ------
  | Drunk check | 10/10
- | [Sanity rev]() | 50/50
+ | [Sanity rev](https://github.com/LeonGurin/Hackappatoi/tree/main/Sanity%20rev) | 50/50
  | Welcome To Web(ere) | 50/50
- | [Hackappa_rev]() | 50/50
- | [eXclusive club]() | 50/50
- | [Best videogame]() | 328/328
+ | [Hackappa_rev](https://github.com/LeonGurin/Hackappatoi/tree/main/Hackappa_rev) | 50/50
+ | [eXclusive club](https://github.com/LeonGurin/Hackappatoi/tree/main/Hackappa_rev) | 50/50
+ | [Best videogame](https://github.com/LeonGurin/Hackappatoi/tree/main/Hackappa_rev) | 328/328
  | Hackappa trip 1 | 50/50
- | [Sanity drink]() | 50/50
- | [WhatsThePerc]() | 50/50
- | [No Drinkers]() | 338/338
- | [Special BERE event]() | 50/50
- | [come mai]() | x/x
- | [Grab a beer and disappear]() | 50/50
- | [BrainDrunk]() | 460/460
+ | [Sanity drink](https://github.com/LeonGurin/Hackappatoi/tree/main/Hackappa_rev) | 50/50
+ | [WhatsThePerc](https://github.com/LeonGurin/Hackappatoi/tree/main/Hackappa_rev) | 50/50
+ | [No Drinkers](https://github.com/LeonGurin/Hackappatoi/tree/main/Hackappa_rev) | 338/338
+ | [Special BERE event](https://github.com/LeonGurin/Hackappatoi/tree/main/Hackappa_rev) | 50/50
+ | [come mai](https://github.com/LeonGurin/Hackappatoi/tree/main/Hackappa_rev) | x/x
+ | [Grab a beer and disappear](https://github.com/LeonGurin/Hackappatoi/tree/main/Grab%20a%20beer%20and%20disappear) | 50/50
+ | [BrainDrunk](https://github.com/LeonGurin/Hackappatoi/tree/main/BrainDrunk) | 460/460
 
 # Competition Results:
 * **Scored:** 1596 points

@@ -1,6 +1,6 @@
 # Best videogame
 
-**xxx points**
+**328 points**
 
 Can you guess what is my favourite videogame saga? I hope you like it too!
 

@@ -10,7 +10,7 @@
  | [Best videogame](https://github.com/LeonGurin/Hackappatoi/tree/main/Hackappa_rev) | 328/328
  | Hackappa trip 1 | 50/50
  | [Sanity drink](https://github.com/LeonGurin/Hackappatoi/tree/main/Hackappa_rev) | 50/50
- | [WhatsThePerc](https://github.com/LeonGurin/Hackappatoi/tree/main/Hackappa_rev) | 50/50
+ | [WhatsThePerc](https://github.com/LeonGurin/Hackappatoi/tree/main/WhatsThePerc) | 50/50
  | [No Drinkers](https://github.com/LeonGurin/Hackappatoi/tree/main/Hackappa_rev) | 338/338
  | [Special BERE event](https://github.com/LeonGurin/Hackappatoi/tree/main/Hackappa_rev) | 50/50
  | [come mai](https://github.com/LeonGurin/Hackappatoi/tree/main/Hackappa_rev) | x/x

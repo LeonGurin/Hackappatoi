@@ -14,7 +14,7 @@ This was a fun challenge, just upload a picture with the string `HCTF` preferabl
 
 Yup I used this as an opportunity to get some beer:
 
-![beer]()
+![beer](https://github.com/LeonGurin/Hackappatoi/blob/main/Special%20BERE%20event/beer.png)
 
 Later the mods gave me the password:
 

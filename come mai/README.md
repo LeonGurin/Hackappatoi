@@ -10,7 +10,7 @@ ___
 
 Looking at the file inside `Audacity` and viewing the spectrogram we see:
 
-![img]()
+![img](https://github.com/LeonGurin/Hackappatoi/blob/main/come%20mai/img.png)
 
 Well if it looks like morse code and flies like morse code it is!
 

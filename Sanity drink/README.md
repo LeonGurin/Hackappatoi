@@ -8,7 +8,7 @@ Author: @FRACCHETTO
 
 nc hctf.hackappatoi.com 10001
 
-*Given:* [sanity_drink](https://github.com/LeonGurin/Hackappatoi/blob/main/Hackappa_rev/sanity_drink)
+*Given:* [sanity_drink](https://github.com/LeonGurin/Hackappatoi/blob/main/Sanity%20drink/sanity_drink)
 
 ___
 

@@ -6,7 +6,7 @@ I have opened a new exclusive club, but you will need a password to join!
 
 Author: @R3tr0
 
-*Given:* [hackappa_rev](https://github.com/LeonGurin/Hackappatoi/blob/main/Hackappa_rev/hackappa_rev)
+*Given:* [eXclusiveclub](https://github.com/LeonGurin/Hackappatoi/blob/main/eXclusive%20club/eXclusiveclub)
 
 ___
 

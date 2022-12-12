@@ -13,7 +13,7 @@
  | [WhatsThePerc](https://github.com/LeonGurin/Hackappatoi/tree/main/WhatsThePerc) | 50/50
  | [No Drinkers](https://github.com/LeonGurin/Hackappatoi/tree/main/Hackappa_rev) | 338/338
  | [Special BERE event](https://github.com/LeonGurin/Hackappatoi/tree/main/Hackappa_rev) | 50/50
- | [come mai](https://github.com/LeonGurin/Hackappatoi/tree/main/Hackappa_rev) | x/x
+ | [come mai](https://github.com/LeonGurin/Hackappatoi/tree/main/Hackappa_rev) | 50/50
  | [Grab a beer and disappear](https://github.com/LeonGurin/Hackappatoi/tree/main/Grab%20a%20beer%20and%20disappear) | 50/50
  | [BrainDrunk](https://github.com/LeonGurin/Hackappatoi/tree/main/BrainDrunk) | 460/460
 
